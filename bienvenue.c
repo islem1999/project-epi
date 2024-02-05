@@ -1,8 +1,8 @@
-// TODO Indiquer ce que fait le programme
-
+#include<stdio.h>
+// Affiche un message de bienvenue
+#include <iostream>
 int main()
- {
-    // TODO Afficher un message de bienvenue
-     printf ("cloud");
-    return 0;
+{
+std::cout << "Bienvenue le monde !" << std::endl;
+return 0;
 }

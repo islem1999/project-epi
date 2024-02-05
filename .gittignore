@@ -1,0 +1,7 @@
+# Fichiers issus de la fabrication
+*.exe
+*.out
+*.o
+/build/
+/bin/
+
