@@ -1,6 +1,6 @@
 // Affiche un message de bienvenue
 #include "fonction-bienvenue.h"
-int main()
+int main ()
 {
 afficherBienvenue();
 return 0;
